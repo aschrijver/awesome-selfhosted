@@ -606,6 +606,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [rartracker](https://github.com/swetorrentking/rartracker) - Complete private bittorrent tracker. `WTFPL` `PHP`
   * [Reep](https://reep.io) - In-browser peer-to-peer file transfer and streaming made easy. ([Source Code](https://github.com/KodeKraftwerk/reepio)) `GPLv2` `Nodejs`
   * [Transmission](https://transmissionbt.com/) - A fast, easy, Free Bittorrent client. ([Source Code](https://github.com/transmission/transmission)) `GPLv3` `C`
+  * [Dat Project](https://datproject.org) - Powerful decentralized file sharing applications built from a large ecosystem of modules. `MIT` `Nodejs` 
 
 #### Single-click/drag-n-drop upload
 
